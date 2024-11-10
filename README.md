@@ -20,6 +20,7 @@ Sample .NET 8.0 Console Application that does the following:
 	- The <b>SQL Server Database Project</b> utilizes a Pre-Deploy script that will automatically create an NBA database.
 	- If you prefer to connect to a separate database server, you may wish to remove the Pre-Deploy script.
 	- If you prefer, you can manually run the `optional-deploy-script.sql` deploy script housed in this repo's root folder.
+1. Enter your Sportradar API key in `Nba.ConsoleApp\appsettings.json`.
 1. Build and run the `Nba.ConsoleApp` program.
 	1. If you use `localdb`, the program should run.
 	1. If you prefer to connect to a separate database server, you will need to update the connection string `appsettings.json`.
