@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[Team]
+(
+	[Id] INT NOT NULL IDENTITY(1, 1)
+	, [Name] NVARCHAR(50) NOT NULL
+	, [Alias] NVARCHAR(3) NOT NULL
+	, [SportRadarId] VARCHAR(50) NULL
+	, [SportRadarGuid] UNIQUEIDENTIFIER NOT NULL
+	, [DateCreated] DATETIME NOT NULL
+	, [DateUpdated] DATETIME NOT NULL
+	, CONSTRAINT PK_Team_Id PRIMARY KEY (Id)
+)

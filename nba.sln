@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nba.ConsoleApp", "Nba.ConsoleApp\Nba.ConsoleApp.csproj", "{C683B39D-AC73-422D-A953-A15082F4E2A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nba.Business", "Nba.Business\Nba.Business.csproj", "{530C3408-FAC5-47C4-BEF5-D07CF3B35CA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nba.Business.Tests", "Nba.Tests\Nba.Business.Tests.csproj", "{3CB7EE65-0D9A-4304-9722-D84B34886FC6}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Nba.Sql", "Nba.Sql\Nba.Sql.sqlproj", "{A0D4AB6C-DC8D-4AAF-A0FD-3978D235B190}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nba.Data", "Nba.Data\Nba.Data.csproj", "{42D432DE-EDCA-438F-A95F-BB15E41A4F00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF287272-C30D-4C7B-B09B-3E327E6566D6}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		optional-deploy-script.sql = optional-deploy-script.sql
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C683B39D-AC73-422D-A953-A15082F4E2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C683B39D-AC73-422D-A953-A15082F4E2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C683B39D-AC73-422D-A953-A15082F4E2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C683B39D-AC73-422D-A953-A15082F4E2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530C3408-FAC5-47C4-BEF5-D07CF3B35CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530C3408-FAC5-47C4-BEF5-D07CF3B35CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530C3408-FAC5-47C4-BEF5-D07CF3B35CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530C3408-FAC5-47C4-BEF5-D07CF3B35CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB7EE65-0D9A-4304-9722-D84B34886FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB7EE65-0D9A-4304-9722-D84B34886FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB7EE65-0D9A-4304-9722-D84B34886FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB7EE65-0D9A-4304-9722-D84B34886FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D4AB6C-DC8D-4AAF-A0FD-3978D235B190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D4AB6C-DC8D-4AAF-A0FD-3978D235B190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D4AB6C-DC8D-4AAF-A0FD-3978D235B190}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A0D4AB6C-DC8D-4AAF-A0FD-3978D235B190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D4AB6C-DC8D-4AAF-A0FD-3978D235B190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D4AB6C-DC8D-4AAF-A0FD-3978D235B190}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{42D432DE-EDCA-438F-A95F-BB15E41A4F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D432DE-EDCA-438F-A95F-BB15E41A4F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D432DE-EDCA-438F-A95F-BB15E41A4F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D432DE-EDCA-438F-A95F-BB15E41A4F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59FE57FB-9DE4-4A1B-AF84-29DFDA3DB219}
+	EndGlobalSection
+EndGlobal

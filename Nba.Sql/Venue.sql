@@ -1,0 +1,19 @@
+﻿CREATE TABLE [dbo].[Venue]
+(
+	[Id] INT NOT NULL IDENTITY(1, 1)
+	, [Name] NVARCHAR(50) NOT NULL
+	, [Address] NVARCHAR(100) NULL
+	, [City] NVARCHAR(50) NOT NULL
+	, [State] NVARCHAR(50) NULL
+	, [Zip] NVARCHAR(50) NULL
+	, [Country] NVARCHAR(50) NOT NULL
+	, [Latitude] NVARCHAR(50) NULL
+	, [Longitude] NVARCHAR(50) NULL
+	, [TimeZone] NVARCHAR(50) NULL
+	, [Capacity] INT NULL
+	, [SportRadarId] VARCHAR(50) NULL
+	, [SportRadarGuid] UNIQUEIDENTIFIER NOT NULL
+	, [DateCreated] DATETIME NOT NULL
+	, [DateUpdated] DATETIME NOT NULL
+	, CONSTRAINT PK_Venue_Id PRIMARY KEY (Id)
+)

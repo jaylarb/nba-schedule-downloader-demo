@@ -1,0 +1,4235 @@
+﻿{
+	"league": {
+		"id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+		"name": "NBA",
+		"alias": "NBA"
+	},
+	"season": {
+		"id": "c70d6199-91f3-452d-af2e-118831957813",
+		"year": 2024,
+		"type": "PRE"
+	},
+	"games": [
+		{
+			"id": "8a03a509-9670-4be4-9504-ec0175ad2c47",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-04T16:00:00Z",
+			"home_points": 103,
+			"away_points": 107,
+			"neutral_site": true,
+			"track_on_court": true,
+			"sr_id": "sr:match:52865989",
+			"reference": "0012400001",
+			"time_zones": {
+				"venue": "Asia/Dubai",
+				"home": "US/Mountain",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "23bd8dee-339a-4c80-a479-49be3eb27577",
+				"name": "Etihad Arena",
+				"capacity": 18000,
+				"address": "Yas Dr St - Yas Island",
+				"city": "Abu Dhabi",
+				"country": "United Arab Emirates",
+				"location": {
+					"lat": "24.460336",
+					"lng": "54.604094"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-BOS",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "630"
+				},
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				}
+			],
+			"home": {
+				"name": "Denver Nuggets",
+				"alias": "DEN",
+				"id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3417",
+				"reference": "1610612743"
+			},
+			"away": {
+				"name": "Boston Celtics",
+				"alias": "BOS",
+				"id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3422",
+				"reference": "1610612738"
+			}
+		},
+		{
+			"id": "12a64727-67f1-4ccb-8192-66770a709b61",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-05T01:00:00Z",
+			"home_points": 116,
+			"away_points": 87,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866537",
+			"reference": "0012400002",
+			"time_zones": {
+				"venue": "US/Mountain",
+				"home": "US/Mountain"
+			},
+			"venue": {
+				"id": "53bac75a-a667-52b5-a416-b80718ae4ed2",
+				"name": "Delta Center",
+				"capacity": 18206,
+				"address": "301 South Temple Street",
+				"city": "Salt Lake City",
+				"state": "UT",
+				"zip": "84101",
+				"country": "USA",
+				"sr_id": "sr:venue:6944",
+				"location": {
+					"lat": "40.768273",
+					"lng": "-111.901141"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "KJZZ",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "Utah Jazz",
+				"alias": "UTA",
+				"id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3434",
+				"reference": "1610612762"
+			},
+			"away": {
+				"name": "New Zealand Breakers",
+				"alias": "NZB",
+				"id": "e3568832-fb2e-4b12-9858-71e6a91d51fd",
+				"reference": "15020"
+			}
+		},
+		{
+			"id": "87ab7af4-0934-4ac0-84ce-ace758cfa2e7",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-05T02:30:00Z",
+			"home_points": 107,
+			"away_points": 124,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866011",
+			"reference": "0012400003",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "1516a7ba-9a1a-4f6a-85b3-bac78fee0a87",
+				"name": "Acrisure Arena",
+				"capacity": 10815,
+				"address": "75702 Varner Rd",
+				"city": "Palm Desert",
+				"state": "CA",
+				"zip": "92211",
+				"country": "USA",
+				"sr_id": "sr:venue:72055",
+				"location": {
+					"lat": "33.78022",
+					"lng": "-116.33979"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "SportsNet LA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "690"
+				},
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				}
+			],
+			"home": {
+				"name": "Los Angeles Lakers",
+				"alias": "LAL",
+				"id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3427",
+				"reference": "1610612747"
+			},
+			"away": {
+				"name": "Minnesota Timberwolves",
+				"alias": "MIN",
+				"id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3426",
+				"reference": "1610612750"
+			}
+		},
+		{
+			"id": "e6d5aefa-59ef-49af-8fc2-bc27dc07ca99",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-05T23:00:00Z",
+			"home_points": 90,
+			"away_points": 91,
+			"track_on_court": true,
+			"sr_id": "sr:match:53286421",
+			"reference": "0012400004",
+			"time_zones": {
+				"venue": "US/Hawaii",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "2e713b00-8015-42c7-813b-643f41b0d384",
+				"name": "SimpliFi Arena at Stan Sheriff Center",
+				"capacity": 10300,
+				"address": "1355 Lower Campus Drive",
+				"city": "Honolulu",
+				"state": "HI",
+				"zip": "96822",
+				"country": "USA",
+				"sr_id": "sr:venue:49319",
+				"location": {
+					"lat": "21.294292",
+					"lng": "-157.818875"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "KTLA",
+					"type": "TV",
+					"locale": "Home"
+				},
+				{
+					"network": "NBCS-BA",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "696"
+				}
+			],
+			"home": {
+				"name": "LA Clippers",
+				"alias": "LAC",
+				"id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3425",
+				"reference": "1610612746"
+			},
+			"away": {
+				"name": "Golden State Warriors",
+				"alias": "GSW",
+				"id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3428",
+				"reference": "1610612744"
+			}
+		},
+		{
+			"id": "a4d9d4ef-d279-401e-ac9e-def8ad5b0f1f",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-06T14:00:00Z",
+			"home_points": 130,
+			"away_points": 104,
+			"neutral_site": true,
+			"track_on_court": true,
+			"sr_id": "sr:match:52865993",
+			"reference": "0012400005",
+			"time_zones": {
+				"venue": "Asia/Dubai",
+				"home": "US/Eastern",
+				"away": "US/Mountain"
+			},
+			"venue": {
+				"id": "23bd8dee-339a-4c80-a479-49be3eb27577",
+				"name": "Etihad Arena",
+				"capacity": 18000,
+				"address": "Yas Dr St - Yas Island",
+				"city": "Abu Dhabi",
+				"country": "United Arab Emirates",
+				"location": {
+					"lat": "24.460336",
+					"lng": "54.604094"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-BOS",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "630"
+				},
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				}
+			],
+			"home": {
+				"name": "Boston Celtics",
+				"alias": "BOS",
+				"id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3422",
+				"reference": "1610612738"
+			},
+			"away": {
+				"name": "Denver Nuggets",
+				"alias": "DEN",
+				"id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3417",
+				"reference": "1610612743"
+			}
+		},
+		{
+			"id": "2846a593-3799-409b-95c3-731bd98525bd",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-06T21:00:00Z",
+			"home_points": 109,
+			"away_points": 111,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864119",
+			"reference": "0012400006",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "a380f011-6e5d-5430-9f37-209e1e8a9b6f",
+				"name": "Spectrum Center",
+				"capacity": 19077,
+				"address": "330 E. Trade Street",
+				"city": "Charlotte",
+				"state": "NC",
+				"zip": "28202",
+				"country": "USA",
+				"sr_id": "sr:venue:6146",
+				"location": {
+					"lat": "35.225148",
+					"lng": "-80.839249"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "BSSE-CHA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "649"
+				},
+				{
+					"network": "MSG",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "634"
+				}
+			],
+			"home": {
+				"name": "Charlotte Hornets",
+				"alias": "CHA",
+				"id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3430",
+				"reference": "1610612766"
+			},
+			"away": {
+				"name": "New York Knicks",
+				"alias": "NYK",
+				"id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3421",
+				"reference": "1610612752"
+			}
+		},
+		{
+			"id": "b70990de-6e7b-4fe3-8d53-715ccc726b59",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-06T23:30:00Z",
+			"home_points": 125,
+			"away_points": 98,
+			"neutral_site": true,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864825",
+			"reference": "0012400007",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "1969b5b1-0f9f-4589-9d1e-f58bc523f154",
+				"name": "Bell Centre",
+				"capacity": 21288,
+				"address": "1909 Avenue des Canadiens-de-Montréal",
+				"city": "Montreal",
+				"state": "QC",
+				"zip": "H3B 5E8",
+				"country": "CAN",
+				"sr_id": "sr:venue:6034",
+				"location": {
+					"lat": "45.496167",
+					"lng": "-73.569278"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "TSN",
+					"type": "TV",
+					"locale": "International"
+				},
+				{
+					"network": "MNMT",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "642"
+				}
+			],
+			"home": {
+				"name": "Toronto Raptors",
+				"alias": "TOR",
+				"id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3433",
+				"reference": "1610612761"
+			},
+			"away": {
+				"name": "Washington Wizards",
+				"alias": "WAS",
+				"id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3431",
+				"reference": "1610612764"
+			}
+		},
+		{
+			"id": "fdfc9371-22d3-4c8e-b95c-50b847a29505",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-07T00:00:00Z",
+			"home_points": 120,
+			"away_points": 87,
+			"track_on_court": true,
+			"sr_id": "sr:match:53286415",
+			"reference": "0012400008",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "5a9ddefc-2267-4fd1-8d6e-0f82163ce8bd",
+				"name": "Little Caesars Arena",
+				"capacity": 20491,
+				"address": "2645 Woodward Avenue",
+				"city": "Detroit",
+				"state": "MI",
+				"zip": "48201",
+				"country": "USA",
+				"sr_id": "sr:venue:21782",
+				"location": {
+					"lat": "42.341172",
+					"lng": "-83.054911"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "ESPN",
+					"type": "TV",
+					"locale": "National",
+					"channel": "206"
+				},
+				{
+					"network": "BSDET",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "663"
+				}
+			],
+			"home": {
+				"name": "Detroit Pistons",
+				"alias": "DET",
+				"id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3424",
+				"reference": "1610612765"
+			},
+			"away": {
+				"name": "Milwaukee Bucks",
+				"alias": "MIL",
+				"id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3410",
+				"reference": "1610612749"
+			}
+		},
+		{
+			"id": "2badabfa-17fa-409a-a6be-eaef77099339",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-07T01:30:00Z",
+			"home_points": 114,
+			"away_points": 118,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864081",
+			"reference": "0012400009",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Arizona"
+			},
+			"venue": {
+				"id": "1516a7ba-9a1a-4f6a-85b3-bac78fee0a87",
+				"name": "Acrisure Arena",
+				"capacity": 10815,
+				"address": "75702 Varner Rd",
+				"city": "Palm Desert",
+				"state": "CA",
+				"zip": "92211",
+				"country": "USA",
+				"sr_id": "sr:venue:72055",
+				"location": {
+					"lat": "33.78022",
+					"lng": "-116.33979"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "SportsNet LA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "690"
+				},
+				{
+					"network": "AZFamily",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Los Angeles Lakers",
+				"alias": "LAL",
+				"id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3427",
+				"reference": "1610612747"
+			},
+			"away": {
+				"name": "Phoenix Suns",
+				"alias": "PHX",
+				"id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3416",
+				"reference": "1610612756"
+			}
+		},
+		{
+			"id": "376972ac-1ea6-4050-95b6-0ca99e51f15e",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-07T17:30:00Z",
+			"home_points": 106,
+			"away_points": 104,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864801",
+			"reference": "0012400010",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "6ec47e31-f778-5319-b6c4-3254e076ba0e",
+				"name": "Smoothie King Center",
+				"capacity": 16867,
+				"address": "1501 Girod Street",
+				"city": "New Orleans",
+				"state": "LA",
+				"zip": "70113",
+				"country": "USA",
+				"sr_id": "sr:venue:6932",
+				"location": {
+					"lat": "29.948889",
+					"lng": "-90.081944"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "Pelicans.com",
+					"type": "Internet",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "New Orleans Pelicans",
+				"alias": "NOP",
+				"id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:5539",
+				"reference": "1610612740"
+			},
+			"away": {
+				"name": "Orlando Magic",
+				"alias": "ORL",
+				"id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3437",
+				"reference": "1610612753"
+			}
+		},
+		{
+			"id": "d739a691-3e6c-4a4b-88b6-5e4a7cde13e2",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-07T23:00:00Z",
+			"home_points": 139,
+			"away_points": 84,
+			"track_on_court": true,
+			"sr_id": "sr:match:53286423",
+			"reference": "0012400011",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern"
+			},
+			"venue": {
+				"id": "b3dca541-859e-5301-bf90-4ec677a514a9",
+				"name": "Wells Fargo Center",
+				"capacity": 20478,
+				"address": "3601 S. Broad Street",
+				"city": "Philadelphia",
+				"state": "PA",
+				"zip": "19148",
+				"country": "USA",
+				"sr_id": "sr:venue:6068",
+				"location": {
+					"lat": "39.9012",
+					"lng": "-75.171995"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-PH",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "Philadelphia 76ers",
+				"alias": "PHI",
+				"id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3420",
+				"reference": "1610612755"
+			},
+			"away": {
+				"name": "New Zealand Breakers",
+				"alias": "NZB",
+				"id": "e3568832-fb2e-4b12-9858-71e6a91d51fd",
+				"reference": "15020"
+			}
+		},
+		{
+			"id": "7bae8dfa-1633-448b-a6cb-4344d0eac37d",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-08T00:00:00Z",
+			"home_points": 116,
+			"away_points": 121,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866619",
+			"reference": "0012400012",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "401ba62f-19b5-5bfc-84d6-021772943311",
+				"name": "American Airlines Center",
+				"capacity": 19200,
+				"address": "2500 Victory Avenue",
+				"city": "Dallas",
+				"state": "TX",
+				"zip": "75219",
+				"country": "USA",
+				"sr_id": "sr:venue:5988",
+				"location": {
+					"lat": "32.79087",
+					"lng": "-96.810338"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "Mavs.com",
+					"type": "Internet",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "Dallas Mavericks",
+				"alias": "DAL",
+				"id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3411",
+				"reference": "1610612742"
+			},
+			"away": {
+				"name": "Memphis Grizzlies",
+				"alias": "MEM",
+				"id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3415",
+				"reference": "1610612763"
+			}
+		},
+		{
+			"id": "41e824d4-3698-4fb2-9dbe-9a5af00ad43b",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-08T00:00:00Z",
+			"home_points": 107,
+			"away_points": 112,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866099",
+			"reference": "0012400013",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "8a7580c0-4052-54d5-85cd-85aab6200acf",
+				"name": "Frost Bank Center",
+				"capacity": 18581,
+				"address": "1 AT&T Center Parkway",
+				"city": "San Antonio",
+				"state": "TX",
+				"zip": "78219",
+				"country": "USA",
+				"sr_id": "sr:venue:6112",
+				"location": {
+					"lat": "29.426944",
+					"lng": "-98.4375"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "CW35",
+					"type": "TV",
+					"locale": "Home"
+				},
+				{
+					"network": "BSOK",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "675"
+				}
+			],
+			"home": {
+				"name": "San Antonio Spurs",
+				"alias": "SAS",
+				"id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3429",
+				"reference": "1610612759"
+			},
+			"away": {
+				"name": "Oklahoma City Thunder",
+				"alias": "OKC",
+				"id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3418",
+				"reference": "1610612760"
+			}
+		},
+		{
+			"id": "be241acf-03f2-452c-9c62-3a65f4f62b5e",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-08T01:00:00Z",
+			"home_points": 122,
+			"away_points": 113,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866539",
+			"reference": "0012400014",
+			"time_zones": {
+				"venue": "US/Mountain",
+				"home": "US/Mountain",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "53bac75a-a667-52b5-a416-b80718ae4ed2",
+				"name": "Delta Center",
+				"capacity": 18206,
+				"address": "301 South Temple Street",
+				"city": "Salt Lake City",
+				"state": "UT",
+				"zip": "84101",
+				"country": "USA",
+				"sr_id": "sr:venue:6944",
+				"location": {
+					"lat": "40.768273",
+					"lng": "-111.901141"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "KJZZ",
+					"type": "TV",
+					"locale": "Home"
+				},
+				{
+					"network": "SCHN",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "674"
+				}
+			],
+			"home": {
+				"name": "Utah Jazz",
+				"alias": "UTA",
+				"id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3434",
+				"reference": "1610612762"
+			},
+			"away": {
+				"name": "Houston Rockets",
+				"alias": "HOU",
+				"id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3412",
+				"reference": "1610612745"
+			}
+		},
+		{
+			"id": "c12abfc2-ea49-49ad-a8bf-a26abed68c27",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-08T23:00:00Z",
+			"home_points": 97,
+			"away_points": 105,
+			"track_on_court": true,
+			"sr_id": "sr:match:53336599",
+			"reference": "0012400017",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Arizona"
+			},
+			"venue": {
+				"id": "93a5f5a1-961e-4434-b4d9-a6c5838a77d7",
+				"name": "Jack Breslin Students Events Center",
+				"capacity": 16280,
+				"address": "One Birch Road",
+				"city": "East Lansing",
+				"state": "MI",
+				"zip": "48824",
+				"country": "USA",
+				"sr_id": "sr:venue:7508",
+				"location": {
+					"lat": "42.728227",
+					"lng": "-84.492396"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSDET",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "663"
+				},
+				{
+					"network": "AZFamily",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Detroit Pistons",
+				"alias": "DET",
+				"id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3424",
+				"reference": "1610612765"
+			},
+			"away": {
+				"name": "Phoenix Suns",
+				"alias": "PHX",
+				"id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3416",
+				"reference": "1610612756"
+			}
+		},
+		{
+			"id": "306ec113-2f52-4c09-aae7-5dbde0eecfb1",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-08T23:00:00Z",
+			"home_points": 112,
+			"away_points": 116,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864135",
+			"reference": "0012400016",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "42cddf7a-0e1f-5f91-ae6f-c620582fdb01",
+				"name": "Rocket Mortgage FieldHouse",
+				"capacity": 19432,
+				"address": "1 Center Court",
+				"city": "Cleveland",
+				"state": "OH",
+				"zip": "44115",
+				"country": "USA",
+				"sr_id": "sr:venue:6132",
+				"location": {
+					"lat": "41.496565",
+					"lng": "-81.688265"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSOH",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "660"
+				},
+				{
+					"network": "CHSN",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "665"
+				}
+			],
+			"home": {
+				"name": "Cleveland Cavaliers",
+				"alias": "CLE",
+				"id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3432",
+				"reference": "1610612739"
+			},
+			"away": {
+				"name": "Chicago Bulls",
+				"alias": "CHI",
+				"id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3409",
+				"reference": "1610612741"
+			}
+		},
+		{
+			"id": "69cae38e-bf2b-461d-b4e9-3749e49beca8",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-08T23:00:00Z",
+			"home_points": 111,
+			"away_points": 108,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864775",
+			"reference": "0012400015",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "a380f011-6e5d-5430-9f37-209e1e8a9b6f",
+				"name": "Spectrum Center",
+				"capacity": 19077,
+				"address": "330 E. Trade Street",
+				"city": "Charlotte",
+				"state": "NC",
+				"zip": "28202",
+				"country": "USA",
+				"sr_id": "sr:venue:6146",
+				"location": {
+					"lat": "35.225148",
+					"lng": "-80.839249"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSSE-CHA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "649"
+				},
+				{
+					"network": "BSSUN",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "653"
+				}
+			],
+			"home": {
+				"name": "Charlotte Hornets",
+				"alias": "CHA",
+				"id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3430",
+				"reference": "1610612766"
+			},
+			"away": {
+				"name": "Miami Heat",
+				"alias": "MIA",
+				"id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3435",
+				"reference": "1610612748"
+			}
+		},
+		{
+			"id": "65b795f4-b307-4f17-a8ef-f14b7ac19300",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-08T23:30:00Z",
+			"home_points": 131,
+			"away_points": 130,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864743",
+			"reference": "0012400018",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "fd21f639-8a47-51ac-a5dd-590629d445cf",
+				"name": "State Farm Arena",
+				"capacity": 18118,
+				"address": "One Philips Drive",
+				"city": "Atlanta",
+				"state": "GA",
+				"zip": "30303",
+				"country": "USA",
+				"sr_id": "sr:venue:6916",
+				"location": {
+					"lat": "33.757162",
+					"lng": "-84.396352"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "BSSE-ATL",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "649"
+				}
+			],
+			"home": {
+				"name": "Atlanta Hawks",
+				"alias": "ATL",
+				"id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3423",
+				"reference": "1610612737"
+			},
+			"away": {
+				"name": "Indiana Pacers",
+				"alias": "IND",
+				"id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3419",
+				"reference": "1610612754"
+			}
+		},
+		{
+			"id": "6902ee18-c116-4d39-a17b-9542b16d3c0c",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-09T02:30:00Z",
+			"home_points": 115,
+			"away_points": 106,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864099",
+			"reference": "0012400019",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "a18f8953-7311-4c4d-8e11-a797a565b4e1",
+				"name": "Frontwave Arena",
+				"capacity": 7500,
+				"address": "3475 Hero Drive",
+				"city": "Oceanside",
+				"state": "CA",
+				"zip": "92056",
+				"country": "USA",
+				"location": {
+					"lat": "33.12.28",
+					"lng": "117.18.53"
+				}
+			},
+			"home": {
+				"name": "LA Clippers",
+				"alias": "LAC",
+				"id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3425",
+				"reference": "1610612746"
+			},
+			"away": {
+				"name": "Brooklyn Nets",
+				"alias": "BKN",
+				"id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3436",
+				"reference": "1610612751"
+			}
+		},
+		{
+			"id": "13ca06be-2142-45b7-9ade-1f38225ba865",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-09T23:30:00Z",
+			"home_points": 117,
+			"away_points": 94,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864123",
+			"reference": "0012400020",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "583152aa-de75-5bea-ac92-ac5b8a51f9f9",
+				"name": "Madison Square Garden",
+				"capacity": 19812,
+				"address": "4 Pennsylvania Plaza",
+				"city": "New York",
+				"state": "NY",
+				"zip": "10001",
+				"country": "USA",
+				"sr_id": "sr:venue:6054",
+				"location": {
+					"lat": "40.750496",
+					"lng": "-73.993447"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "MSG",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "634"
+				},
+				{
+					"network": "MNMT",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "642"
+				}
+			],
+			"home": {
+				"name": "New York Knicks",
+				"alias": "NYK",
+				"id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3421",
+				"reference": "1610612752"
+			},
+			"away": {
+				"name": "Washington Wizards",
+				"alias": "WAS",
+				"id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3431",
+				"reference": "1610612764"
+			}
+		},
+		{
+			"id": "08184500-8245-4ba7-be4c-f66cafe27106",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-10T00:00:00Z",
+			"home_points": 107,
+			"away_points": 97,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864803",
+			"reference": "0012400022",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "8a7580c0-4052-54d5-85cd-85aab6200acf",
+				"name": "Frost Bank Center",
+				"capacity": 18581,
+				"address": "1 AT&T Center Parkway",
+				"city": "San Antonio",
+				"state": "TX",
+				"zip": "78219",
+				"country": "USA",
+				"sr_id": "sr:venue:6112",
+				"location": {
+					"lat": "29.426944",
+					"lng": "-98.4375"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "CW35",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "San Antonio Spurs",
+				"alias": "SAS",
+				"id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3429",
+				"reference": "1610612759"
+			},
+			"away": {
+				"name": "Orlando Magic",
+				"alias": "ORL",
+				"id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3437",
+				"reference": "1610612753"
+			}
+		},
+		{
+			"id": "50a4061b-19ba-427d-a613-ccb60bccfa75",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-10T00:00:00Z",
+			"home_points": 113,
+			"away_points": 122,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866077",
+			"reference": "0012400021",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "a13af216-4409-5021-8dd5-255cc71bffc3",
+				"name": "Paycom Center",
+				"capacity": 18203,
+				"address": "100 W. Reno Avenue",
+				"city": "Oklahoma City",
+				"state": "OK",
+				"zip": "73102",
+				"country": "USA",
+				"sr_id": "sr:venue:6934",
+				"location": {
+					"lat": "35.463333",
+					"lng": "-97.515"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "BSOK",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "675"
+				},
+				{
+					"network": "SCHN",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "674"
+				}
+			],
+			"home": {
+				"name": "Oklahoma City Thunder",
+				"alias": "OKC",
+				"id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3418",
+				"reference": "1610612760"
+			},
+			"away": {
+				"name": "Houston Rockets",
+				"alias": "HOU",
+				"id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3412",
+				"reference": "1610612745"
+			}
+		},
+		{
+			"id": "e1a7dfd8-7bc3-4495-af7d-c0273a3acba7",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-10T02:30:00Z",
+			"home_points": 112,
+			"away_points": 122,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866583",
+			"reference": "0012400023",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "2e687b9a-c7a7-487c-85b4-43479abc8458",
+				"name": "Golden 1 Center",
+				"capacity": 17608,
+				"address": "500 David J. Stern Walkway",
+				"city": "Sacramento",
+				"state": "CA",
+				"zip": "95814",
+				"country": "USA",
+				"sr_id": "sr:venue:6942",
+				"location": {
+					"lat": "38.580361",
+					"lng": "-121.499611"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "ESPN",
+					"type": "TV",
+					"locale": "National",
+					"channel": "206"
+				},
+				{
+					"network": "NBCS-CA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "698"
+				}
+			],
+			"home": {
+				"name": "Sacramento Kings",
+				"alias": "SAC",
+				"id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3413",
+				"reference": "1610612758"
+			},
+			"away": {
+				"name": "Golden State Warriors",
+				"alias": "GSW",
+				"id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3428",
+				"reference": "1610612744"
+			}
+		},
+		{
+			"id": "2f2651b8-5cc2-48c1-a771-2e646f50cf80",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-10T23:00:00Z",
+			"home_points": 117,
+			"away_points": 129,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864565",
+			"reference": "0012400024",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "42cddf7a-0e1f-5f91-ae6f-c620582fdb01",
+				"name": "Rocket Mortgage FieldHouse",
+				"capacity": 19432,
+				"address": "1 Center Court",
+				"city": "Cleveland",
+				"state": "OH",
+				"zip": "44115",
+				"country": "USA",
+				"sr_id": "sr:venue:6132",
+				"location": {
+					"lat": "41.496565",
+					"lng": "-81.688265"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSOH",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "660"
+				}
+			],
+			"home": {
+				"name": "Cleveland Cavaliers",
+				"alias": "CLE",
+				"id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3432",
+				"reference": "1610612739"
+			},
+			"away": {
+				"name": "Indiana Pacers",
+				"alias": "IND",
+				"id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3419",
+				"reference": "1610612754"
+			}
+		},
+		{
+			"id": "07e7d983-6f10-4f18-9a79-b60b75b261fd",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-11T00:00:00Z",
+			"home_points": 102,
+			"away_points": 107,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866545",
+			"reference": "0012400026",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Mountain"
+			},
+			"venue": {
+				"id": "401ba62f-19b5-5bfc-84d6-021772943311",
+				"name": "American Airlines Center",
+				"capacity": 19200,
+				"address": "2500 Victory Avenue",
+				"city": "Dallas",
+				"state": "TX",
+				"zip": "75219",
+				"country": "USA",
+				"sr_id": "sr:venue:5988",
+				"location": {
+					"lat": "32.79087",
+					"lng": "-96.810338"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "KJZZ",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Dallas Mavericks",
+				"alias": "DAL",
+				"id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3411",
+				"reference": "1610612742"
+			},
+			"away": {
+				"name": "Utah Jazz",
+				"alias": "UTA",
+				"id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3434",
+				"reference": "1610612762"
+			}
+		},
+		{
+			"id": "bf44fc21-d0fb-4c5d-a2fb-59b7bd7c7b51",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-11T00:00:00Z",
+			"home_points": 102,
+			"away_points": 107,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866559",
+			"reference": "0012400028",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "50b75324-b994-46af-a0a7-28db7bea67d0",
+				"name": "Fiserv Forum",
+				"capacity": 17500,
+				"address": "1111 Vel R Phillips Avenue",
+				"city": "Milwaukee",
+				"state": "WI",
+				"zip": "53203",
+				"country": "USA",
+				"sr_id": "sr:venue:31495",
+				"location": {
+					"lat": "43.045028",
+					"lng": "-87.918167"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "BSWI",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "669"
+				},
+				{
+					"network": "SportsNet LA",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "690"
+				}
+			],
+			"home": {
+				"name": "Milwaukee Bucks",
+				"alias": "MIL",
+				"id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3410",
+				"reference": "1610612749"
+			},
+			"away": {
+				"name": "Los Angeles Lakers",
+				"alias": "LAL",
+				"id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3427",
+				"reference": "1610612747"
+			}
+		},
+		{
+			"id": "3c40fd8a-b0a5-4305-987f-da0f9707e082",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-11T00:00:00Z",
+			"home_points": 94,
+			"away_points": 119,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864779",
+			"reference": "0012400027",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "7657c204-a20b-527a-99cb-dc29218462aa",
+				"name": "FedExForum",
+				"capacity": 18119,
+				"address": "191 Beale Street",
+				"city": "Memphis",
+				"state": "TN",
+				"zip": "38103",
+				"country": "USA",
+				"sr_id": "sr:venue:6926",
+				"location": {
+					"lat": "35.138142",
+					"lng": "-90.050427"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSSE-MEM",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "649"
+				},
+				{
+					"network": "BSSE-CHA",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "649"
+				}
+			],
+			"home": {
+				"name": "Memphis Grizzlies",
+				"alias": "MEM",
+				"id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3415",
+				"reference": "1610612763"
+			},
+			"away": {
+				"name": "Charlotte Hornets",
+				"alias": "CHA",
+				"id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3430",
+				"reference": "1610612766"
+			}
+		},
+		{
+			"id": "f8b5d2ef-440e-49d3-b376-f6ecc5e6c99d",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-11T00:00:00Z",
+			"home_points": 117,
+			"away_points": 89,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866075",
+			"reference": "0012400029",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central"
+			},
+			"venue": {
+				"id": "7aec3f52-9759-4b41-b4f4-c6645b4aef21",
+				"name": "BOK Center",
+				"capacity": 17839,
+				"address": "200 S. Denver Avenue",
+				"city": "Tulsa",
+				"state": "OK",
+				"zip": "74103",
+				"country": "USA",
+				"sr_id": "sr:venue:7084",
+				"location": {
+					"lat": "36.152638",
+					"lng": "-95.99667"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSOK",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "675"
+				}
+			],
+			"home": {
+				"name": "Oklahoma City Thunder",
+				"alias": "OKC",
+				"id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3418",
+				"reference": "1610612760"
+			},
+			"away": {
+				"name": "New Zealand Breakers",
+				"alias": "NZB",
+				"id": "e3568832-fb2e-4b12-9858-71e6a91d51fd",
+				"reference": "15020"
+			}
+		},
+		{
+			"id": "43398b1c-1a7f-41ff-93fa-e297864886ae",
+			"status": "cancelled",
+			"coverage": "full",
+			"scheduled": "2024-10-11T23:00:00Z",
+			"track_on_court": true,
+			"sr_id": "sr:match:52864805",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "aecd8da6-0404-599c-a792-4b33fb084a2a",
+				"name": "Kia Center",
+				"capacity": 18846,
+				"address": "400 W. Church Street",
+				"city": "Orlando",
+				"state": "FL",
+				"zip": "32801",
+				"country": "USA",
+				"sr_id": "sr:venue:6936",
+				"location": {
+					"lat": "28.539167",
+					"lng": "-81.383611"
+				}
+			},
+			"home": {
+				"name": "Orlando Magic",
+				"alias": "ORL",
+				"id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3437",
+				"reference": "1610612753"
+			},
+			"away": {
+				"name": "New Orleans Pelicans",
+				"alias": "NOP",
+				"id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:5539",
+				"reference": "1610612740"
+			}
+		},
+		{
+			"id": "f26fb950-4c39-45c7-b7ef-8569ac72ff20",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-11T23:00:00Z",
+			"home_points": 113,
+			"away_points": 95,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864835",
+			"reference": "0012400031",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "f62d5b49-d646-56e9-ba60-a875a00830f8",
+				"name": "Capital One Arena",
+				"capacity": 20356,
+				"address": "601 F Street NW",
+				"city": "Washington",
+				"state": "DC",
+				"zip": "20004",
+				"country": "USA",
+				"sr_id": "sr:venue:6016",
+				"location": {
+					"lat": "38.898056",
+					"lng": "-77.020833"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "MNMT",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "642"
+				},
+				{
+					"network": "TSN",
+					"type": "TV",
+					"locale": "International"
+				},
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				}
+			],
+			"home": {
+				"name": "Washington Wizards",
+				"alias": "WAS",
+				"id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3431",
+				"reference": "1610612764"
+			},
+			"away": {
+				"name": "Toronto Raptors",
+				"alias": "TOR",
+				"id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3433",
+				"reference": "1610612761"
+			}
+		},
+		{
+			"id": "fc8c21a8-2347-4510-ba0e-6c4bea0f0cc2",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-11T23:00:00Z",
+			"home_points": 121,
+			"away_points": 111,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866023",
+			"reference": "0012400032",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "786bfe1c-6fa3-4177-a207-0242f7f68bfb",
+				"name": "Wells Fargo Arena",
+				"capacity": 16110,
+				"address": "730 3rd Street",
+				"city": "Des Moines",
+				"state": "IA",
+				"zip": "50309",
+				"country": "USA",
+				"sr_id": "sr:venue:13546",
+				"location": {
+					"lat": "41.592667",
+					"lng": "-93.621139"
+				}
+			},
+			"home": {
+				"name": "Minnesota Timberwolves",
+				"alias": "MIN",
+				"id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3426",
+				"reference": "1610612750"
+			},
+			"away": {
+				"name": "Philadelphia 76ers",
+				"alias": "PHI",
+				"id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3420",
+				"reference": "1610612755"
+			}
+		},
+		{
+			"id": "5a30077a-afd3-40d0-85bd-8a7f24ee2201",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-12T02:00:00Z",
+			"home_points": 91,
+			"away_points": 109,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864089",
+			"reference": "0012400034",
+			"time_zones": {
+				"venue": "US/Arizona",
+				"home": "US/Arizona",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "1d2e59b2-2479-5f84-a6a7-e82f65dd8442",
+				"name": "Footprint Center",
+				"capacity": 18422,
+				"address": "201 E. Jefferson Street",
+				"city": "Phoenix",
+				"state": "AZ",
+				"zip": "85004",
+				"country": "USA",
+				"sr_id": "sr:venue:6938",
+				"location": {
+					"lat": "33.445833",
+					"lng": "-112.071389"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "AZFamily",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "Phoenix Suns",
+				"alias": "PHX",
+				"id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3416",
+				"reference": "1610612756"
+			},
+			"away": {
+				"name": "Detroit Pistons",
+				"alias": "DET",
+				"id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3424",
+				"reference": "1610612765"
+			}
+		},
+		{
+			"id": "19c4f138-7b90-42dc-8b72-c0761ef043df",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-12T02:00:00Z",
+			"home_points": 109,
+			"away_points": 106,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866553",
+			"reference": "0012400033",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "938016dc-9e1d-4abc-88f5-3a7d772332e6",
+				"name": "Chase Center",
+				"capacity": 18064,
+				"address": "1 Warriors Way",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94158",
+				"country": "USA",
+				"sr_id": "sr:venue:44446",
+				"location": {
+					"lat": "37.7679",
+					"lng": "-122.3873"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "NBCS-BA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "696"
+				},
+				{
+					"network": "Kings.com",
+					"type": "Internet",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Golden State Warriors",
+				"alias": "GSW",
+				"id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3428",
+				"reference": "1610612744"
+			},
+			"away": {
+				"name": "Sacramento Kings",
+				"alias": "SAC",
+				"id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3413",
+				"reference": "1610612758"
+			}
+		},
+		{
+			"id": "12040e18-7bc4-459d-ac45-254d12fbcd8c",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-12T02:30:00Z",
+			"home_points": 101,
+			"away_points": 99,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866319",
+			"reference": "0012400035",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "1ed647ac-63f1-4dab-bca8-c192d96b33c6",
+				"name": "Climate Pledge Arena",
+				"capacity": 15354,
+				"address": "334 1st Avenue North",
+				"city": "Seattle",
+				"state": "WA",
+				"zip": "98109",
+				"country": "USA",
+				"sr_id": "sr:venue:7082",
+				"location": {
+					"lat": "47.622342",
+					"lng": "-122.353788"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "KTLA",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "LA Clippers",
+				"alias": "LAC",
+				"id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3425",
+				"reference": "1610612746"
+			},
+			"away": {
+				"name": "Portland Trail Blazers",
+				"alias": "POR",
+				"id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3414",
+				"reference": "1610612757"
+			}
+		},
+		{
+			"id": "0fc28e3b-0e44-4387-9f53-0004db20808c",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-13T00:00:00Z",
+			"home_points": 139,
+			"away_points": 89,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864093",
+			"reference": "0012400036",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "7d69b080-91ca-53c9-9302-45c1a72c5549",
+				"name": "TD Garden",
+				"capacity": 18624,
+				"address": "100 Legends Way",
+				"city": "Boston",
+				"state": "MA",
+				"zip": "02114",
+				"country": "USA",
+				"sr_id": "sr:venue:5940",
+				"location": {
+					"lat": "42.366303",
+					"lng": "-71.062228"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-BOS",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "630"
+				},
+				{
+					"network": "NBCS-PH+",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Boston Celtics",
+				"alias": "BOS",
+				"id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3422",
+				"reference": "1610612738"
+			},
+			"away": {
+				"name": "Philadelphia 76ers",
+				"alias": "PHI",
+				"id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3420",
+				"reference": "1610612755"
+			}
+		},
+		{
+			"id": "0f20e481-300c-4d2e-a393-4748022bdbd4",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-13T00:00:00Z",
+			"home_points": 121,
+			"away_points": 124,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864139",
+			"reference": "0012400037",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "38911649-acfd-551a-949b-68f0fcaa44e7",
+				"name": "United Center",
+				"capacity": 20917,
+				"address": "1901 W Madison Street",
+				"city": "Chicago",
+				"state": "IL",
+				"zip": "60612",
+				"country": "USA",
+				"sr_id": "sr:venue:5964",
+				"location": {
+					"lat": "41.880675",
+					"lng": "-87.674091"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "CHSN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "665"
+				}
+			],
+			"home": {
+				"name": "Chicago Bulls",
+				"alias": "CHI",
+				"id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3409",
+				"reference": "1610612741"
+			},
+			"away": {
+				"name": "Memphis Grizzlies",
+				"alias": "MEM",
+				"id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3415",
+				"reference": "1610612763"
+			}
+		},
+		{
+			"id": "cf13bc1b-abba-4dc9-89de-dfdcd02b55c0",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-13T00:00:00Z",
+			"home_points": 126,
+			"away_points": 120,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866547",
+			"reference": "0012400038",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Mountain"
+			},
+			"venue": {
+				"id": "8a7580c0-4052-54d5-85cd-85aab6200acf",
+				"name": "Frost Bank Center",
+				"capacity": 18581,
+				"address": "1 AT&T Center Parkway",
+				"city": "San Antonio",
+				"state": "TX",
+				"zip": "78219",
+				"country": "USA",
+				"sr_id": "sr:venue:6112",
+				"location": {
+					"lat": "29.426944",
+					"lng": "-98.4375"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "CW35",
+					"type": "TV",
+					"locale": "Home"
+				},
+				{
+					"network": "KJZZ",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "San Antonio Spurs",
+				"alias": "SAS",
+				"id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3429",
+				"reference": "1610612759"
+			},
+			"away": {
+				"name": "Utah Jazz",
+				"alias": "UTA",
+				"id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3434",
+				"reference": "1610612762"
+			}
+		},
+		{
+			"id": "b39726b0-4527-43d0-a7fd-79cc6c2967c3",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-13T19:30:00Z",
+			"home_points": 101,
+			"away_points": 99,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864791",
+			"reference": "0012400039",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "b67d5f09-28b2-5bc6-9097-af312007d2f4",
+				"name": "Kaseya Center",
+				"capacity": 19600,
+				"address": "601 Biscayne Boulevard",
+				"city": "Miami",
+				"state": "FL",
+				"zip": "33132",
+				"country": "USA",
+				"sr_id": "sr:venue:6928",
+				"location": {
+					"lat": "25.781389",
+					"lng": "-80.188056"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSSUN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "653"
+				},
+				{
+					"network": "Pelicans.com",
+					"type": "Internet",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Miami Heat",
+				"alias": "MIA",
+				"id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3435",
+				"reference": "1610612748"
+			},
+			"away": {
+				"name": "New Orleans Pelicans",
+				"alias": "NOP",
+				"id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:5539",
+				"reference": "1610612740"
+			}
+		},
+		{
+			"id": "aaae50d1-490a-4c4f-ba51-0568f8cbcfa6",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-13T22:00:00Z",
+			"home_points": 115,
+			"away_points": 110,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864125",
+			"reference": "0012400040",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "583152aa-de75-5bea-ac92-ac5b8a51f9f9",
+				"name": "Madison Square Garden",
+				"capacity": 19812,
+				"address": "4 Pennsylvania Plaza",
+				"city": "New York",
+				"state": "NY",
+				"zip": "10001",
+				"country": "USA",
+				"sr_id": "sr:venue:6054",
+				"location": {
+					"lat": "40.750496",
+					"lng": "-73.993447"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "ESPN",
+					"type": "TV",
+					"locale": "National",
+					"channel": "206"
+				},
+				{
+					"network": "MSG",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "634"
+				}
+			],
+			"home": {
+				"name": "New York Knicks",
+				"alias": "NYK",
+				"id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3421",
+				"reference": "1610612752"
+			},
+			"away": {
+				"name": "Minnesota Timberwolves",
+				"alias": "MIN",
+				"id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3426",
+				"reference": "1610612750"
+			}
+		},
+		{
+			"id": "52485a40-1ed8-42fa-9c99-c6769b10ce0c",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-13T22:00:00Z",
+			"home_points": 85,
+			"away_points": 105,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866385",
+			"reference": "0012400041",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "2e687b9a-c7a7-487c-85b4-43479abc8458",
+				"name": "Golden 1 Center",
+				"capacity": 17608,
+				"address": "500 David J. Stern Walkway",
+				"city": "Sacramento",
+				"state": "CA",
+				"zip": "95814",
+				"country": "USA",
+				"sr_id": "sr:venue:6942",
+				"location": {
+					"lat": "38.580361",
+					"lng": "-121.499611"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "Kings.com",
+					"type": "Internet",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "Sacramento Kings",
+				"alias": "SAC",
+				"id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3413",
+				"reference": "1610612758"
+			},
+			"away": {
+				"name": "Portland Trail Blazers",
+				"alias": "POR",
+				"id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3414",
+				"reference": "1610612757"
+			}
+		},
+		{
+			"id": "ec20cfc5-7d5b-45a2-9735-dfd47eaabca8",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-13T23:00:00Z",
+			"home_points": 115,
+			"away_points": 111,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864095",
+			"reference": "0012400042",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "7d69b080-91ca-53c9-9302-45c1a72c5549",
+				"name": "TD Garden",
+				"capacity": 18624,
+				"address": "100 Legends Way",
+				"city": "Boston",
+				"state": "MA",
+				"zip": "02114",
+				"country": "USA",
+				"sr_id": "sr:venue:5940",
+				"location": {
+					"lat": "42.366303",
+					"lng": "-71.062228"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-BOS",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "630"
+				},
+				{
+					"network": "SportsNet",
+					"type": "TV",
+					"locale": "International"
+				}
+			],
+			"home": {
+				"name": "Boston Celtics",
+				"alias": "BOS",
+				"id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3422",
+				"reference": "1610612738"
+			},
+			"away": {
+				"name": "Toronto Raptors",
+				"alias": "TOR",
+				"id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3433",
+				"reference": "1610612761"
+			}
+		},
+		{
+			"id": "7b716074-f6a0-4cfb-bf11-6520447da4be",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-14T00:30:00Z",
+			"home_points": 111,
+			"away_points": 93,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866557",
+			"reference": "0012400044",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "938016dc-9e1d-4abc-88f5-3a7d772332e6",
+				"name": "Chase Center",
+				"capacity": 18064,
+				"address": "1 Warriors Way",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94158",
+				"country": "USA",
+				"sr_id": "sr:venue:44446",
+				"location": {
+					"lat": "37.7679",
+					"lng": "-122.3873"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-BA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "696"
+				}
+			],
+			"home": {
+				"name": "Golden State Warriors",
+				"alias": "GSW",
+				"id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3428",
+				"reference": "1610612744"
+			},
+			"away": {
+				"name": "Detroit Pistons",
+				"alias": "DET",
+				"id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3424",
+				"reference": "1610612765"
+			}
+		},
+		{
+			"id": "72de20b3-8112-48cf-a6d2-a3de64108db4",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-14T00:30:00Z",
+			"home_points": 114,
+			"away_points": 118,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864087",
+			"reference": "0012400043",
+			"time_zones": {
+				"venue": "US/Mountain",
+				"home": "US/Mountain",
+				"away": "US/Arizona"
+			},
+			"venue": {
+				"id": "1a28ef88-76c9-5bcc-b4ee-51d30ca98f4f",
+				"name": "Ball Arena",
+				"capacity": 19520,
+				"address": "1000 Chopper Circle",
+				"city": "Denver",
+				"state": "CO",
+				"zip": "80204",
+				"country": "USA",
+				"sr_id": "sr:venue:5976",
+				"location": {
+					"lat": "39.749034",
+					"lng": "-105.007604"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "ESPN",
+					"type": "TV",
+					"locale": "National",
+					"channel": "206"
+				},
+				{
+					"network": "AZFamily",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Denver Nuggets",
+				"alias": "DEN",
+				"id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3417",
+				"reference": "1610612743"
+			},
+			"away": {
+				"name": "Phoenix Suns",
+				"alias": "PHX",
+				"id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3416",
+				"reference": "1610612756"
+			}
+		},
+		{
+			"id": "35d392a6-d9b6-4225-97dd-c6e72b47c0d9",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-14T23:00:00Z",
+			"home_points": 116,
+			"away_points": 120,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864745",
+			"reference": "0012400045",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "24bb478e-eb31-5f8a-8c8d-07f513169ec1",
+				"name": "Gainbridge Fieldhouse",
+				"capacity": 20000,
+				"address": "125 S. Pennsylvania Street",
+				"city": "Indianapolis",
+				"state": "IN",
+				"zip": "46204",
+				"country": "USA",
+				"sr_id": "sr:venue:6924",
+				"location": {
+					"lat": "39.763975",
+					"lng": "-86.15542"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSIN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "671-4"
+				},
+				{
+					"network": "BSSE-MEM",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "649"
+				}
+			],
+			"home": {
+				"name": "Indiana Pacers",
+				"alias": "IND",
+				"id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3419",
+				"reference": "1610612754"
+			},
+			"away": {
+				"name": "Memphis Grizzlies",
+				"alias": "MEM",
+				"id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3415",
+				"reference": "1610612763"
+			}
+		},
+		{
+			"id": "94521d20-ca5c-4e99-825f-8d1c9db5b367",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-14T23:30:00Z",
+			"home_points": 131,
+			"away_points": 92,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864105",
+			"reference": "0012400047",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "7a330bcd-ac0f-50ca-bc29-2460e5c476b3",
+				"name": "Barclays Center",
+				"capacity": 17732,
+				"address": "620 Atlantic Avenue",
+				"city": "Brooklyn",
+				"state": "NY",
+				"zip": "11217",
+				"country": "USA",
+				"sr_id": "sr:venue:36132",
+				"location": {
+					"lat": "40.682957",
+					"lng": "-73.975165"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "YES",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "631"
+				},
+				{
+					"network": "MNMT",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "642"
+				}
+			],
+			"home": {
+				"name": "Brooklyn Nets",
+				"alias": "BKN",
+				"id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3436",
+				"reference": "1610612751"
+			},
+			"away": {
+				"name": "Washington Wizards",
+				"alias": "WAS",
+				"id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3431",
+				"reference": "1610612764"
+			}
+		},
+		{
+			"id": "f26578aa-19e7-47e1-99ed-2d5d063cf7c6",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-14T23:30:00Z",
+			"home_points": 89,
+			"away_points": 104,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864765",
+			"reference": "0012400046",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "fd21f639-8a47-51ac-a5dd-590629d445cf",
+				"name": "State Farm Arena",
+				"capacity": 18118,
+				"address": "One Philips Drive",
+				"city": "Atlanta",
+				"state": "GA",
+				"zip": "30303",
+				"country": "USA",
+				"sr_id": "sr:venue:6916",
+				"location": {
+					"lat": "33.757162",
+					"lng": "-84.396352"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "BSSE-ATL",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "649"
+				}
+			],
+			"home": {
+				"name": "Atlanta Hawks",
+				"alias": "ATL",
+				"id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3423",
+				"reference": "1610612737"
+			},
+			"away": {
+				"name": "Philadelphia 76ers",
+				"alias": "PHI",
+				"id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3420",
+				"reference": "1610612755"
+			}
+		},
+		{
+			"id": "edef0cc1-7cc9-4a95-b85e-c831a42fda31",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-15T00:00:00Z",
+			"home_points": 111,
+			"away_points": 107,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864137",
+			"reference": "0012400048",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "50b75324-b994-46af-a0a7-28db7bea67d0",
+				"name": "Fiserv Forum",
+				"capacity": 17500,
+				"address": "1111 Vel R Phillips Avenue",
+				"city": "Milwaukee",
+				"state": "WI",
+				"zip": "53203",
+				"country": "USA",
+				"sr_id": "sr:venue:31495",
+				"location": {
+					"lat": "43.045028",
+					"lng": "-87.918167"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSWI",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "669"
+				},
+				{
+					"network": "CHSN",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "665"
+				}
+			],
+			"home": {
+				"name": "Milwaukee Bucks",
+				"alias": "MIL",
+				"id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3410",
+				"reference": "1610612749"
+			},
+			"away": {
+				"name": "Chicago Bulls",
+				"alias": "CHI",
+				"id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3409",
+				"reference": "1610612741"
+			}
+		},
+		{
+			"id": "8cbdc7e2-f9cb-4b89-92a4-05bcd57169d6",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-15T02:30:00Z",
+			"home_points": 110,
+			"away_points": 96,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866623",
+			"reference": "0012400049",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "cf7b61b7-a868-4b39-ac60-ecad61e0721a",
+				"name": "Intuit Dome",
+				"capacity": 18000,
+				"address": "3930 W Century Blvd",
+				"city": "Inglewood",
+				"state": "CA",
+				"zip": "90303",
+				"country": "USA",
+				"sr_id": "sr:venue:79291"
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "KTLA",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "LA Clippers",
+				"alias": "LAC",
+				"id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3425",
+				"reference": "1610612746"
+			},
+			"away": {
+				"name": "Dallas Mavericks",
+				"alias": "DAL",
+				"id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3411",
+				"reference": "1610612742"
+			}
+		},
+		{
+			"id": "a3d5416e-97ed-4952-b13e-10f95e9232f7",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-15T23:00:00Z",
+			"home_points": 119,
+			"away_points": 118,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864097",
+			"reference": "0012400050",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "62cc9661-7b13-56e7-bf4a-bba7ad7be8da",
+				"name": "Scotiabank Arena",
+				"capacity": 19800,
+				"address": "40 Bay Street",
+				"city": "Toronto",
+				"state": "ON",
+				"zip": "M5J 2X2",
+				"country": "CAN",
+				"sr_id": "sr:venue:6030",
+				"location": {
+					"lat": "43.643333",
+					"lng": "-79.379167"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-BOS",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "630"
+				},
+				{
+					"network": "SportsNet",
+					"type": "TV",
+					"locale": "International"
+				}
+			],
+			"home": {
+				"name": "Toronto Raptors",
+				"alias": "TOR",
+				"id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3433",
+				"reference": "1610612761"
+			},
+			"away": {
+				"name": "Boston Celtics",
+				"alias": "BOS",
+				"id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3422",
+				"reference": "1610612738"
+			}
+		},
+		{
+			"id": "3896e94a-0c2c-41d4-ac11-4e5b4d1ccdfd",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-15T23:30:00Z",
+			"home_points": 111,
+			"away_points": 105,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864127",
+			"reference": "0012400052",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "583152aa-de75-5bea-ac92-ac5b8a51f9f9",
+				"name": "Madison Square Garden",
+				"capacity": 19812,
+				"address": "4 Pennsylvania Plaza",
+				"city": "New York",
+				"state": "NY",
+				"zip": "10001",
+				"country": "USA",
+				"sr_id": "sr:venue:6054",
+				"location": {
+					"lat": "40.750496",
+					"lng": "-73.993447"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "MSG",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "634"
+				}
+			],
+			"home": {
+				"name": "New York Knicks",
+				"alias": "NYK",
+				"id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3421",
+				"reference": "1610612752"
+			},
+			"away": {
+				"name": "Charlotte Hornets",
+				"alias": "CHA",
+				"id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3430",
+				"reference": "1610612766"
+			}
+		},
+		{
+			"id": "0436f973-b746-4c00-9113-37de0d62a00a",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-15T23:30:00Z",
+			"home_points": 120,
+			"away_points": 117,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864793",
+			"reference": "0012400051",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "b67d5f09-28b2-5bc6-9097-af312007d2f4",
+				"name": "Kaseya Center",
+				"capacity": 19600,
+				"address": "601 Biscayne Boulevard",
+				"city": "Miami",
+				"state": "FL",
+				"zip": "33132",
+				"country": "USA",
+				"sr_id": "sr:venue:6928",
+				"location": {
+					"lat": "25.781389",
+					"lng": "-80.188056"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "BSSUN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "653"
+				},
+				{
+					"network": "BSSW",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "676"
+				}
+			],
+			"home": {
+				"name": "Miami Heat",
+				"alias": "MIA",
+				"id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3435",
+				"reference": "1610612748"
+			},
+			"away": {
+				"name": "San Antonio Spurs",
+				"alias": "SAS",
+				"id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3429",
+				"reference": "1610612759"
+			}
+		},
+		{
+			"id": "87f897da-9b42-4667-8491-add003b714b2",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-16T00:00:00Z",
+			"home_points": 118,
+			"away_points": 98,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866629",
+			"reference": "0012400053",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "5b239206-57ce-50aa-baaa-627f3349dfdc",
+				"name": "Toyota Center",
+				"capacity": 18500,
+				"address": "1510 Polk Street",
+				"city": "Houston",
+				"state": "TX",
+				"zip": "77002",
+				"country": "USA",
+				"sr_id": "sr:venue:6134",
+				"location": {
+					"lat": "29.750751",
+					"lng": "-95.362049"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "SCHN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "674"
+				},
+				{
+					"network": "Gulf Coast Sports",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Houston Rockets",
+				"alias": "HOU",
+				"id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3412",
+				"reference": "1610612745"
+			},
+			"away": {
+				"name": "New Orleans Pelicans",
+				"alias": "NOP",
+				"id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:5539",
+				"reference": "1610612740"
+			}
+		},
+		{
+			"id": "1196478e-3f0c-4f36-9f30-2cc9f9e1d2d5",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-16T01:00:00Z",
+			"home_points": 94,
+			"away_points": 124,
+			"track_on_court": true,
+			"sr_id": "sr:match:52865979",
+			"reference": "0012400054",
+			"time_zones": {
+				"venue": "US/Mountain",
+				"home": "US/Mountain",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "1a28ef88-76c9-5bcc-b4ee-51d30ca98f4f",
+				"name": "Ball Arena",
+				"capacity": 19520,
+				"address": "1000 Chopper Circle",
+				"city": "Denver",
+				"state": "CO",
+				"zip": "80204",
+				"country": "USA",
+				"sr_id": "sr:venue:5976",
+				"location": {
+					"lat": "39.749034",
+					"lng": "-105.007604"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSOK",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "675"
+				}
+			],
+			"home": {
+				"name": "Denver Nuggets",
+				"alias": "DEN",
+				"id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3417",
+				"reference": "1610612743"
+			},
+			"away": {
+				"name": "Oklahoma City Thunder",
+				"alias": "OKC",
+				"id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3418",
+				"reference": "1610612760"
+			}
+		},
+		{
+			"id": "b045fa4a-146f-4d27-919c-8564bbeba524",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-16T01:00:00Z",
+			"home_points": 117,
+			"away_points": 114,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866543",
+			"reference": "0012400055",
+			"time_zones": {
+				"venue": "US/Mountain",
+				"home": "US/Mountain",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "53bac75a-a667-52b5-a416-b80718ae4ed2",
+				"name": "Delta Center",
+				"capacity": 18206,
+				"address": "301 South Temple Street",
+				"city": "Salt Lake City",
+				"state": "UT",
+				"zip": "84101",
+				"country": "USA",
+				"sr_id": "sr:venue:6944",
+				"location": {
+					"lat": "40.768273",
+					"lng": "-111.901141"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "KJZZ",
+					"type": "TV",
+					"locale": "Home"
+				},
+				{
+					"network": "Kings.com",
+					"type": "Internet",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Utah Jazz",
+				"alias": "UTA",
+				"id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3434",
+				"reference": "1610612762"
+			},
+			"away": {
+				"name": "Sacramento Kings",
+				"alias": "SAC",
+				"id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3413",
+				"reference": "1610612758"
+			}
+		},
+		{
+			"id": "c14c156e-1635-46b9-990e-547277ef61cb",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-16T02:00:00Z",
+			"home_points": 97,
+			"away_points": 111,
+			"neutral_site": true,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866571",
+			"reference": "0012400056",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "8880a26a-485d-424f-a53f-bedae94b36ba",
+				"name": "T-Mobile Arena",
+				"capacity": 18000,
+				"address": "3780 South Las Vegas Boulevard",
+				"city": "Las Vegas",
+				"state": "NV",
+				"zip": "89158",
+				"country": "USA",
+				"sr_id": "sr:venue:20621",
+				"location": {
+					"lat": "36.102778",
+					"lng": "-115.178333"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "SportsNet LA",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "690"
+				}
+			],
+			"home": {
+				"name": "Los Angeles Lakers",
+				"alias": "LAL",
+				"id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3427",
+				"reference": "1610612747"
+			},
+			"away": {
+				"name": "Golden State Warriors",
+				"alias": "GSW",
+				"id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3428",
+				"reference": "1610612744"
+			}
+		},
+		{
+			"id": "8dc36fc2-4f4e-44e8-94f4-7237a3ba4cc4",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-16T23:00:00Z",
+			"home_points": 108,
+			"away_points": 92,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864707",
+			"reference": "0012400057",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "5a9ddefc-2267-4fd1-8d6e-0f82163ce8bd",
+				"name": "Little Caesars Arena",
+				"capacity": 20491,
+				"address": "2645 Woodward Avenue",
+				"city": "Detroit",
+				"state": "MI",
+				"zip": "48201",
+				"country": "USA",
+				"sr_id": "sr:venue:21782",
+				"location": {
+					"lat": "42.341172",
+					"lng": "-83.054911"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				},
+				{
+					"network": "BSDET",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "663"
+				},
+				{
+					"network": "BSOH",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "660"
+				}
+			],
+			"home": {
+				"name": "Detroit Pistons",
+				"alias": "DET",
+				"id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3424",
+				"reference": "1610612765"
+			},
+			"away": {
+				"name": "Cleveland Cavaliers",
+				"alias": "CLE",
+				"id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3432",
+				"reference": "1610612739"
+			}
+		},
+		{
+			"id": "45f02e72-9a28-4600-a0ff-7ed68c8d9f4a",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-16T23:00:00Z",
+			"home_points": 117,
+			"away_points": 95,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864101",
+			"reference": "0012400058",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "b3dca541-859e-5301-bf90-4ec677a514a9",
+				"name": "Wells Fargo Center",
+				"capacity": 20478,
+				"address": "3601 S. Broad Street",
+				"city": "Philadelphia",
+				"state": "PA",
+				"zip": "19148",
+				"country": "USA",
+				"sr_id": "sr:venue:6068",
+				"location": {
+					"lat": "39.9012",
+					"lng": "-75.171995"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "NBCS-PH",
+					"type": "TV",
+					"locale": "Home"
+				},
+				{
+					"network": "YES",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "631"
+				}
+			],
+			"home": {
+				"name": "Philadelphia 76ers",
+				"alias": "PHI",
+				"id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3420",
+				"reference": "1610612755"
+			},
+			"away": {
+				"name": "Brooklyn Nets",
+				"alias": "BKN",
+				"id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3436",
+				"reference": "1610612751"
+			}
+		},
+		{
+			"id": "78c160b1-0abe-4168-9a68-9c27cad52643",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-16T23:30:00Z",
+			"home_points": 120,
+			"away_points": 111,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864769",
+			"reference": "0012400025",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "b67d5f09-28b2-5bc6-9097-af312007d2f4",
+				"name": "Kaseya Center",
+				"capacity": 19600,
+				"address": "601 Biscayne Boulevard",
+				"city": "Miami",
+				"state": "FL",
+				"zip": "33132",
+				"country": "USA",
+				"sr_id": "sr:venue:6928",
+				"location": {
+					"lat": "25.781389",
+					"lng": "-80.188056"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSSUN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "653"
+				},
+				{
+					"network": "BSSE-ATL",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "649"
+				}
+			],
+			"home": {
+				"name": "Miami Heat",
+				"alias": "MIA",
+				"id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3435",
+				"reference": "1610612748"
+			},
+			"away": {
+				"name": "Atlanta Hawks",
+				"alias": "ATL",
+				"id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3423",
+				"reference": "1610612737"
+			}
+		},
+		{
+			"id": "f13ac120-55a3-4f62-b96a-83bc01523b12",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-17T00:00:00Z",
+			"home_points": 125,
+			"away_points": 123,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864141",
+			"reference": "0012400059",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "38911649-acfd-551a-949b-68f0fcaa44e7",
+				"name": "United Center",
+				"capacity": 20917,
+				"address": "1901 W Madison Street",
+				"city": "Chicago",
+				"state": "IL",
+				"zip": "60612",
+				"country": "USA",
+				"sr_id": "sr:venue:5964",
+				"location": {
+					"lat": "41.880675",
+					"lng": "-87.674091"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "CHSN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "665"
+				},
+				{
+					"network": "BSN",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "668"
+				}
+			],
+			"home": {
+				"name": "Chicago Bulls",
+				"alias": "CHI",
+				"id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3409",
+				"reference": "1610612741"
+			},
+			"away": {
+				"name": "Minnesota Timberwolves",
+				"alias": "MIN",
+				"id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3426",
+				"reference": "1610612750"
+			}
+		},
+		{
+			"id": "963cc684-d7a8-408b-b537-f526846376d3",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-17T02:00:00Z",
+			"home_points": 111,
+			"away_points": 100,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866549",
+			"reference": "0012400060",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific"
+			},
+			"venue": {
+				"id": "1d1f74a2-7b35-56f0-8cbd-552c51cb2c14",
+				"name": "Moda Center",
+				"capacity": 19393,
+				"address": "1 Center Court",
+				"city": "Portland",
+				"state": "OR",
+				"zip": "97227",
+				"country": "USA",
+				"sr_id": "sr:venue:6940",
+				"location": {
+					"lat": "45.531667",
+					"lng": "-122.666667"
+				}
+			},
+			"home": {
+				"name": "Portland Trail Blazers",
+				"alias": "POR",
+				"id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3414",
+				"reference": "1610612757"
+			},
+			"away": {
+				"name": "Ulm Ratiopharm",
+				"alias": "ULM",
+				"id": "a54e2633-0500-4e1f-9f8c-2d5f55674aee",
+				"reference": "15025"
+			}
+		},
+		{
+			"id": "ba7c4b44-52ea-4a47-8502-7f8f3d91f6f6",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-17T23:00:00Z",
+			"home_points": 121,
+			"away_points": 116,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864747",
+			"reference": "0012400061",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "24bb478e-eb31-5f8a-8c8d-07f513169ec1",
+				"name": "Gainbridge Fieldhouse",
+				"capacity": 20000,
+				"address": "125 S. Pennsylvania Street",
+				"city": "Indianapolis",
+				"state": "IN",
+				"zip": "46204",
+				"country": "USA",
+				"sr_id": "sr:venue:6924",
+				"location": {
+					"lat": "39.763975",
+					"lng": "-86.15542"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSIN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "671-4"
+				},
+				{
+					"network": "BSSE-CHA",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "649"
+				}
+			],
+			"home": {
+				"name": "Indiana Pacers",
+				"alias": "IND",
+				"id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3419",
+				"reference": "1610612754"
+			},
+			"away": {
+				"name": "Charlotte Hornets",
+				"alias": "CHA",
+				"id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3430",
+				"reference": "1610612766"
+			}
+		},
+		{
+			"id": "f51b1de8-194f-49cb-b9dc-5b2a40d17503",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-17T23:30:00Z",
+			"home_points": 109,
+			"away_points": 84,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866621",
+			"reference": "0012400062",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "401ba62f-19b5-5bfc-84d6-021772943311",
+				"name": "American Airlines Center",
+				"capacity": 19200,
+				"address": "2500 Victory Avenue",
+				"city": "Dallas",
+				"state": "TX",
+				"zip": "75219",
+				"country": "USA",
+				"sr_id": "sr:venue:5988",
+				"location": {
+					"lat": "32.79087",
+					"lng": "-96.810338"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "TNT",
+					"type": "TV",
+					"locale": "National",
+					"channel": "245"
+				},
+				{
+					"network": "Mavs.com",
+					"type": "Internet",
+					"locale": "Home"
+				},
+				{
+					"network": "BSWI",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "669"
+				}
+			],
+			"home": {
+				"name": "Dallas Mavericks",
+				"alias": "DAL",
+				"id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3411",
+				"reference": "1610612742"
+			},
+			"away": {
+				"name": "Milwaukee Bucks",
+				"alias": "MIL",
+				"id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3410",
+				"reference": "1610612749"
+			}
+		},
+		{
+			"id": "2a6ea570-4319-48db-9e4f-e5b035ea7cfa",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T00:00:00Z",
+			"home_points": 104,
+			"away_points": 99,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864771",
+			"reference": "0012400064",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "a13af216-4409-5021-8dd5-255cc71bffc3",
+				"name": "Paycom Center",
+				"capacity": 18203,
+				"address": "100 W. Reno Avenue",
+				"city": "Oklahoma City",
+				"state": "OK",
+				"zip": "73102",
+				"country": "USA",
+				"sr_id": "sr:venue:6934",
+				"location": {
+					"lat": "35.463333",
+					"lng": "-97.515"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSOK",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "675"
+				},
+				{
+					"network": "BSSE-ATL",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "649"
+				}
+			],
+			"home": {
+				"name": "Oklahoma City Thunder",
+				"alias": "OKC",
+				"id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3418",
+				"reference": "1610612760"
+			},
+			"away": {
+				"name": "Atlanta Hawks",
+				"alias": "ATL",
+				"id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3423",
+				"reference": "1610612737"
+			}
+		},
+		{
+			"id": "b233e503-2964-4bbe-b7e9-fd0094cea278",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T00:00:00Z",
+			"home_points": 126,
+			"away_points": 132,
+			"track_on_court": true,
+			"sr_id": "sr:match:52865983",
+			"reference": "0012400072",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Mountain"
+			},
+			"venue": {
+				"id": "7aed802e-3562-5b73-af1b-3859529f9b95",
+				"name": "Target Center",
+				"capacity": 19356,
+				"address": "600 First Avenue North",
+				"city": "Minneapolis",
+				"state": "MN",
+				"zip": "55403",
+				"country": "USA",
+				"sr_id": "sr:venue:6930",
+				"location": {
+					"lat": "44.979444",
+					"lng": "-93.276111"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "668"
+				}
+			],
+			"home": {
+				"name": "Minnesota Timberwolves",
+				"alias": "MIN",
+				"id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3426",
+				"reference": "1610612750"
+			},
+			"away": {
+				"name": "Denver Nuggets",
+				"alias": "DEN",
+				"id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3417",
+				"reference": "1610612743"
+			}
+		},
+		{
+			"id": "ecb8ec09-e750-40d2-afb6-9d8f7d8a761a",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T00:00:00Z",
+			"home_points": 129,
+			"away_points": 107,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866631",
+			"reference": "0012400063",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Central"
+			},
+			"venue": {
+				"id": "5b239206-57ce-50aa-baaa-627f3349dfdc",
+				"name": "Toyota Center",
+				"capacity": 18500,
+				"address": "1510 Polk Street",
+				"city": "Houston",
+				"state": "TX",
+				"zip": "77002",
+				"country": "USA",
+				"sr_id": "sr:venue:6134",
+				"location": {
+					"lat": "29.750751",
+					"lng": "-95.362049"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "SCHN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "674"
+				},
+				{
+					"network": "CW35",
+					"type": "TV",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "Houston Rockets",
+				"alias": "HOU",
+				"id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3412",
+				"reference": "1610612745"
+			},
+			"away": {
+				"name": "San Antonio Spurs",
+				"alias": "SAS",
+				"id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3429",
+				"reference": "1610612759"
+			}
+		},
+		{
+			"id": "ba4f4091-eabb-4bc1-890e-e45fe68880a5",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T02:00:00Z",
+			"home_points": 122,
+			"away_points": 128,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864091",
+			"reference": "0012400065",
+			"time_zones": {
+				"venue": "US/Arizona",
+				"home": "US/Arizona",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "1d2e59b2-2479-5f84-a6a7-e82f65dd8442",
+				"name": "Footprint Center",
+				"capacity": 18422,
+				"address": "201 E. Jefferson Street",
+				"city": "Phoenix",
+				"state": "AZ",
+				"zip": "85004",
+				"country": "USA",
+				"sr_id": "sr:venue:6938",
+				"location": {
+					"lat": "33.445833",
+					"lng": "-112.071389"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "TNT",
+					"type": "TV",
+					"locale": "National",
+					"channel": "245"
+				},
+				{
+					"network": "SportsNet LA",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "690"
+				},
+				{
+					"network": "AZFamily",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "Phoenix Suns",
+				"alias": "PHX",
+				"id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3416",
+				"reference": "1610612756"
+			},
+			"away": {
+				"name": "Los Angeles Lakers",
+				"alias": "LAL",
+				"id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3427",
+				"reference": "1610612747"
+			}
+		},
+		{
+			"id": "5847850c-9270-4355-aba1-1c3d9bdb006c",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T02:30:00Z",
+			"home_points": 113,
+			"away_points": 91,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866585",
+			"reference": "0012400066",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "cf7b61b7-a868-4b39-ac60-ecad61e0721a",
+				"name": "Intuit Dome",
+				"capacity": 18000,
+				"address": "3930 W Century Blvd",
+				"city": "Inglewood",
+				"state": "CA",
+				"zip": "90303",
+				"country": "USA",
+				"sr_id": "sr:venue:79291"
+			},
+			"broadcasts": [
+				{
+					"network": "KTLA",
+					"type": "TV",
+					"locale": "Home"
+				},
+				{
+					"network": "Kings.com",
+					"type": "Internet",
+					"locale": "Away"
+				}
+			],
+			"home": {
+				"name": "LA Clippers",
+				"alias": "LAC",
+				"id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3425",
+				"reference": "1610612746"
+			},
+			"away": {
+				"name": "Sacramento Kings",
+				"alias": "SAC",
+				"id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3413",
+				"reference": "1610612758"
+			}
+		},
+		{
+			"id": "b023b2a2-0c35-4a2d-8e1d-9fc3edcb7a04",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T23:00:00Z",
+			"home_points": 114,
+			"away_points": 99,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864807",
+			"reference": "0012400067",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "aecd8da6-0404-599c-a792-4b33fb084a2a",
+				"name": "Kia Center",
+				"capacity": 18846,
+				"address": "400 W. Church Street",
+				"city": "Orlando",
+				"state": "FL",
+				"zip": "32801",
+				"country": "USA",
+				"sr_id": "sr:venue:6936",
+				"location": {
+					"lat": "28.539167",
+					"lng": "-81.383611"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSFL",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "654"
+				}
+			],
+			"home": {
+				"name": "Orlando Magic",
+				"alias": "ORL",
+				"id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3437",
+				"reference": "1610612753"
+			},
+			"away": {
+				"name": "Philadelphia 76ers",
+				"alias": "PHI",
+				"id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3420",
+				"reference": "1610612755"
+			}
+		},
+		{
+			"id": "2d87ac21-33f1-49c6-bbd1-313bdada167a",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T23:00:00Z",
+			"home_points": 118,
+			"away_points": 117,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864121",
+			"reference": "0012400068",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "f62d5b49-d646-56e9-ba60-a875a00830f8",
+				"name": "Capital One Arena",
+				"capacity": 20356,
+				"address": "601 F Street NW",
+				"city": "Washington",
+				"state": "DC",
+				"zip": "20004",
+				"country": "USA",
+				"sr_id": "sr:venue:6016",
+				"location": {
+					"lat": "38.898056",
+					"lng": "-77.020833"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "MNMT",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "642"
+				},
+				{
+					"network": "MSG",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "634"
+				}
+			],
+			"home": {
+				"name": "Washington Wizards",
+				"alias": "WAS",
+				"id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3431",
+				"reference": "1610612764"
+			},
+			"away": {
+				"name": "New York Knicks",
+				"alias": "NYK",
+				"id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3421",
+				"reference": "1610612752"
+			}
+		},
+		{
+			"id": "a628ae4a-048f-46a3-a62f-4a00e3b44eff",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-18T23:30:00Z",
+			"home_points": 112,
+			"away_points": 116,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864111",
+			"reference": "0012400069",
+			"time_zones": {
+				"venue": "US/Eastern",
+				"home": "US/Eastern",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "7a330bcd-ac0f-50ca-bc29-2460e5c476b3",
+				"name": "Barclays Center",
+				"capacity": 17732,
+				"address": "620 Atlantic Avenue",
+				"city": "Brooklyn",
+				"state": "NY",
+				"zip": "11217",
+				"country": "USA",
+				"sr_id": "sr:venue:36132",
+				"location": {
+					"lat": "40.682957",
+					"lng": "-73.975165"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "TSN",
+					"type": "TV",
+					"locale": "International"
+				},
+				{
+					"network": "YES",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "631"
+				}
+			],
+			"home": {
+				"name": "Brooklyn Nets",
+				"alias": "BKN",
+				"id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3436",
+				"reference": "1610612751"
+			},
+			"away": {
+				"name": "Toronto Raptors",
+				"alias": "TOR",
+				"id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3433",
+				"reference": "1610612761"
+			}
+		},
+		{
+			"id": "11c32b48-c328-4e0a-af0d-faa1dfe521e9",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-19T00:00:00Z",
+			"home_points": 139,
+			"away_points": 137,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864143",
+			"reference": "0012400070",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "38911649-acfd-551a-949b-68f0fcaa44e7",
+				"name": "United Center",
+				"capacity": 20917,
+				"address": "1901 W Madison Street",
+				"city": "Chicago",
+				"state": "IL",
+				"zip": "60612",
+				"country": "USA",
+				"sr_id": "sr:venue:5964",
+				"location": {
+					"lat": "41.880675",
+					"lng": "-87.674091"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "CHSN",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "665"
+				},
+				{
+					"network": "BSOH",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "660"
+				}
+			],
+			"home": {
+				"name": "Chicago Bulls",
+				"alias": "CHI",
+				"id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3409",
+				"reference": "1610612741"
+			},
+			"away": {
+				"name": "Cleveland Cavaliers",
+				"alias": "CLE",
+				"id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3432",
+				"reference": "1610612739"
+			}
+		},
+		{
+			"id": "2d01b2d3-578c-4503-aea6-e592751574d8",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-19T00:00:00Z",
+			"home_points": 109,
+			"away_points": 114,
+			"track_on_court": true,
+			"sr_id": "sr:match:52864795",
+			"reference": "0012400071",
+			"time_zones": {
+				"venue": "US/Central",
+				"home": "US/Central",
+				"away": "US/Eastern"
+			},
+			"venue": {
+				"id": "7657c204-a20b-527a-99cb-dc29218462aa",
+				"name": "FedExForum",
+				"capacity": 18119,
+				"address": "191 Beale Street",
+				"city": "Memphis",
+				"state": "TN",
+				"zip": "38103",
+				"country": "USA",
+				"sr_id": "sr:venue:6926",
+				"location": {
+					"lat": "35.138142",
+					"lng": "-90.050427"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "BSSE-MEM",
+					"type": "TV",
+					"locale": "Home",
+					"channel": "649"
+				},
+				{
+					"network": "BSSUN",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "653"
+				},
+				{
+					"network": "NBA TV",
+					"type": "TV",
+					"locale": "National",
+					"channel": "216"
+				}
+			],
+			"home": {
+				"name": "Memphis Grizzlies",
+				"alias": "MEM",
+				"id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3415",
+				"reference": "1610612763"
+			},
+			"away": {
+				"name": "Miami Heat",
+				"alias": "MIA",
+				"id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3435",
+				"reference": "1610612748"
+			}
+		},
+		{
+			"id": "1e00b89b-5249-4c6a-be35-53f64a61cb59",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-19T02:00:00Z",
+			"home_points": 124,
+			"away_points": 86,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866307",
+			"reference": "0012400073",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Mountain"
+			},
+			"venue": {
+				"id": "1d1f74a2-7b35-56f0-8cbd-552c51cb2c14",
+				"name": "Moda Center",
+				"capacity": 19393,
+				"address": "1 Center Court",
+				"city": "Portland",
+				"state": "OR",
+				"zip": "97227",
+				"country": "USA",
+				"sr_id": "sr:venue:6940",
+				"location": {
+					"lat": "45.531667",
+					"lng": "-122.666667"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "KJZZ",
+					"type": "TV",
+					"locale": "Away"
+				},
+				{
+					"network": "KATU",
+					"type": "TV",
+					"locale": "Home"
+				}
+			],
+			"home": {
+				"name": "Portland Trail Blazers",
+				"alias": "POR",
+				"id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3414",
+				"reference": "1610612757"
+			},
+			"away": {
+				"name": "Utah Jazz",
+				"alias": "UTA",
+				"id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3434",
+				"reference": "1610612762"
+			}
+		},
+		{
+			"id": "44873a0a-1831-481f-a947-d223e09ddfe9",
+			"status": "closed",
+			"coverage": "full",
+			"scheduled": "2024-10-19T02:30:00Z",
+			"home_points": 132,
+			"away_points": 74,
+			"track_on_court": true,
+			"sr_id": "sr:match:52866555",
+			"reference": "0012400074",
+			"time_zones": {
+				"venue": "US/Pacific",
+				"home": "US/Pacific",
+				"away": "US/Pacific"
+			},
+			"venue": {
+				"id": "938016dc-9e1d-4abc-88f5-3a7d772332e6",
+				"name": "Chase Center",
+				"capacity": 18064,
+				"address": "1 Warriors Way",
+				"city": "San Francisco",
+				"state": "CA",
+				"zip": "94158",
+				"country": "USA",
+				"sr_id": "sr:venue:44446",
+				"location": {
+					"lat": "37.7679",
+					"lng": "-122.3873"
+				}
+			},
+			"broadcasts": [
+				{
+					"network": "ESPN2",
+					"type": "TV",
+					"locale": "National",
+					"channel": "209"
+				},
+				{
+					"network": "SportsNet LA",
+					"type": "TV",
+					"locale": "Away",
+					"channel": "690"
+				}
+			],
+			"home": {
+				"name": "Golden State Warriors",
+				"alias": "GSW",
+				"id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3428",
+				"reference": "1610612744"
+			},
+			"away": {
+				"name": "Los Angeles Lakers",
+				"alias": "LAL",
+				"id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+				"sr_id": "sr:team:3427",
+				"reference": "1610612747"
+			}
+		}
+	]
+}
