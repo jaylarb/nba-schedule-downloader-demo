@@ -33,6 +33,7 @@ If I were to continue to develop this program further, here is a list of items I
 - Review the overall program structure, namespaces, class names, and styling conventions and would ensure that it corresponds with other programs in the ecosystem.
 - Incorporate logging in a fashion consistent with other programs in the ecosystem.
 - Incorporate additional monitoring criteria as appropriate.
+- Move the Api key into a more secure location.
 - Leverage a third-party library to automate the process of registering services in the service collection.
 - Leverage a third-party library to automate generation of Sportradar data model classes.
 - Leverage a third-party library such as Poly to implement retry handling for service and database calls.
